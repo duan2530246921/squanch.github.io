@@ -16,9 +16,8 @@
     --hr-border            : 1px solid var(--mono-tint2);
 
     /* Mark */
-    --mark-background      : #ffecb3;
+    --mark-background      : #ffb3b3;
     --mark-color           : ;
-
     /* Preformatted */
     --pre-font-family      : var(--code-font-family);
     --pre-font-size        : var(--code-font-size);
