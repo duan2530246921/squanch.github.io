@@ -12,9 +12,10 @@
   * [Java 设计模式](b/8)
   * [Java Web](b/9)
 * 三、数据库
-  * [MySQL](c/1)
-  * [Redis](c/2)
-  * [MongoDB](c/3)
+  * [SQL](数据库/SQL)
+  * [MySQL](数据库/MySQL)
+  * [Redis](数据库/Redis)
+  * [MongoDB](数据库/MongoDB)
 * 四、操作系统
   * [操作系统原理](d/1)
   * [Linux](d/2)
