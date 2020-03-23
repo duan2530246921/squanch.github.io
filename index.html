@@ -13,6 +13,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      // 完整配置参数
+      search: {
+        maxAge: 86400000,               // 过期时间，单位毫秒，默认一天
+        paths: 'auto',                      // or 'auto'，匹配文件路径
+        placeholder: '搜索',  // 搜索提示框文字， 支持本地化，例子在下面
+        noData: '没有记录!',          // 找不到结果文字提示，支持本地化，例子在下面
+      },
+
       loadSidebar: true,
       subMaxLevel: 4,
       coverpage: true,
@@ -20,26 +28,9 @@
       loadSidebar: true,//多文档侧边栏
       loadNavbar: true,//导航栏
       //loadNavbar: '_sidebar.md',
-      //themeColor: '#5D5A3B',//替换主题色
       //logo: '/_media/squanch.jpg',//logo
       name: 'SquanchWiKi',//文档标题
 
-      // 完整配置参数
-      search: {
-        maxAge: 86400000,               // 过期时间，单位毫秒，默认一天
-        paths: [],                      // or 'auto'，匹配文件路径
-        placeholder: 'Type to search',  // 搜索提示框文字， 支持本地化，例子在下面
-        // placeholder: {
-        //   '/zh-cn/': '搜索',
-        //   '/': 'Type to search'
-        // },
-        noData: 'No Results!',          // 找不到结果文字提示，支持本地化，例子在下面
-        // noData: {
-        //   '/zh-cn/': '找不到结果',
-        //   '/': 'No Results'
-        // },
-        depth: 6,                       // 搜索标题的最大程级, 1 - 6
-      }
     }
   </script>
   <!--搜索-->
