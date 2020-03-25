@@ -63,8 +63,9 @@
 * [SQL DB 数据类型](数据库/SQL高级教程/chapter33.md)
 ---
 ## SQL函数
+* [SQL 函数()](数据库/SQL函数/chapter0.md)
 * [SQL AVG()](数据库/SQL函数/chapter1.md)
-* [SQL COUNT()](数据库/数据库/SQL函数/chapter2.md)
+* [SQL COUNT()](数据库/SQL函数/chapter2.md)
 * [SQL FIRST()](数据库/SQL函数/chapter3.md)
 * [SQL LAST()](数据库/SQL函数/chapter4.md)
 * [SQL MAX()](数据库/SQL函数/chapter5.md)
