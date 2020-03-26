@@ -20,7 +20,7 @@
 
 ## 技能图谱
 
-- [backend skill](notes/SkillTree/backend-skill.md)
+- [backend skill](技能图谱/index.md)
 
   后台开发技能图谱，从程序员的内功修炼到后台语言，分布式系统架构
 
@@ -139,15 +139,15 @@
 
 ## 五、数据库
 
-- [MySQL](notes/MySQL.md)
+- [MySQL](数据库/MySQL.md)
 
   存储引擎、事务隔离级别、索引、主从复制
-
-- [Redis](notes/Redis.md)
+ 
+- [Redis](数据库/Redis.md)
 
   Redis 核心知识
 
-- [SQL](notes/SQL.md)
+- [SQL](数据库/SQL.md)
 
   常用 SQL 语句
 
