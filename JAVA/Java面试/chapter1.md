@@ -37,7 +37,7 @@ Math.round(-1.5)的返回值是-1。 四舍五入的原理是在参数上加0.5�
 ---
 ## 6.String 属于基础的数据类型吗？
 ---
-ring不是基本数据类型，而是一个类（class），是Java编程语言中的字符串。String对象是char的有序集合，并且该值是不可变的。因为java.lang.String类是final类型的，因此不可以继承这个类、不能修改这个类。为了提高效率节省空间，我们应该用StringBuffer类。
+Sring不是基本数据类型，而是一个类（class），是Java编程语言中的字符串。String对象是char的有序集合，并且该值是不可变的。因为java.lang.String类是final类型的，因此不可以继承这个类、不能修改这个类。为了提高效率节省空间，我们应该用StringBuffer类。
 ```
 Java的8大基本数据类型分别是：
 
